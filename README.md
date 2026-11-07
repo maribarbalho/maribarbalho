@@ -1,10 +1,10 @@
 # Olá, eu sou a Mariana Barbalho 👋
 
-**Engenheira de Software Júnior na Cielo** · Graduada em Análise e Desenvolvimento de Sistemas (USJT) · Pós-graduanda em Data Analytics
+**Analista de Dados** · Business Intelligence & Analytics · Pós-graduada em Data Analytics (FIAP) · Graduada em Análise e Desenvolvimento de Sistemas (USJT)
 
-Trabalho com dados e desenvolvimento desde 2021. Já passei por análise de dados, BI, ETL e automação de processos, e hoje atuo na evolução do backend da Plataforma do Desenvolvedor. Gosto de transformar dados espalhados em indicadores claros, que ajudam alguém a tomar uma decisão.
+Tenho experiência em meios de pagamento e serviços financeiros, com atuação em BI e análise de dados de ponta a ponta: da extração e do tratamento dos dados à geração de insights. Desenvolvo dashboards, KPIs, ETL e automações que apoiam a tomada de decisão.
 
-📍 São Paulo, SP
+📍 São Paulo, SP · 🌐 [maribarbalho.github.io](https://maribarbalho.github.io/)
 
 ---
 
@@ -13,23 +13,38 @@ Trabalho com dados e desenvolvimento desde 2021. Já passei por análise de dado
 **Dados e BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Desenvolvimento e nuvem**
+**Modelagem e visualização**
+
+Modelagem dimensional · Esquema estrela · KPIs · Dashboards · Storytelling com dados
+
+**Cloud e IA**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=flat)
+
+**Colaboração**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat)
 
 ---
 
@@ -37,24 +52,25 @@ Trabalho com dados e desenvolvimento desde 2021. Já passei por análise de dado
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [**Logistics Performance Analytics**](https://github.com/maribarbalho/logistics-performance-analytics) | Case de BI que integra dados em CSV, Excel, JSON e XML para analisar entregas, frota, produtos e atendimento | Power BI, Power Query, DAX |
-| [**Dashboard de RH**](https://github.com/maribarbalho/dashboard-rh) | Painel de headcount, desligamentos, salários e tempo de casa | Python, Streamlit, Plotly |
-| [**Dashboard de Vendas**](https://github.com/maribarbalho/dashboard_vendas) | Receita e vendas por estado, mês, categoria e vendedor, com dados de API | Python, Streamlit, Plotly |
-| [**Reconhecimento de Objetos**](https://github.com/maribarbalho/Reconhecimento-Machine-Learning) | Machine Learning no navegador: reconhece objetos pela webcam ([testar](https://maribarbalho.github.io/Reconhecimento-Machine-Learning/)) | TensorFlow.js, Teachable Machine |
+| [**Logistics Performance Analytics**](https://maribarbalho.github.io/projetos/logistics-performance-analytics) · [repositório](https://github.com/maribarbalho/logistics-performance-analytics) | Case de BI que integra dados em CSV, Excel, JSON e XML para analisar entregas, frota, produtos e atendimento | Power BI, Power Query, DAX |
+| [**Visão Geral de Vendas**](https://maribarbalho.github.io/projetos/dashboard-vendas-power-bi) | Faturamento, volume, ticket médio e itens vendidos por período, grupo de produtos e equipe de vendas | Power BI, DAX |
+| [**Operações de Crédito**](https://maribarbalho.github.io/projetos/operacoes-de-credito) | Volume e quantidade de empréstimos por mês, linha de crédito, filial e cidade | Power BI, DAX |
+| [**Fatores Associados à Obesidade**](https://maribarbalho.github.io/projetos/analise-obesidade) | Hábitos alimentares, estilo de vida e meio de transporte para apoiar decisões de uma equipe de saúde | Power BI |
+
+Os estudos de caso completos estão no [portfólio](https://maribarbalho.github.io/#projetos).
 
 ---
 
 ## 💼 Trajetória
 
-- **2025–atual** · Cielo · Engenheira de Software Júnior
-- **2024–2025** · Ouribank · Analista de Dados Júnior
-- **2022–2023** · Corteva Agriscience · Estagiária em Análise de Dados
-- **2021–2022** · Parla Contact Center (atual ABAI Group) · Estagiária em Desenvolvimento de Sistemas
+- **2025–2026** · Cielo · Analista de Dados
+- **2024–2025** · Ouribank · Analista de Dados
+- **2022–2023** · Corteva Agriscience · Estagiária na Área Comercial
 
 ---
 
 ## 📫 Contato
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-maribarbalho.github.io-3B82F6?style=flat)](https://maribarbalho.github.io/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-maribarbalho.github.io-2563EB?style=flat)](https://maribarbalho.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariana_Barbalho-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-barbalho-619254202)
 [![E-mail](https://img.shields.io/badge/E--mail-mariana__barbalho222@hotmail.com-D14836?style=flat)](mailto:mariana_barbalho222@hotmail.com)
