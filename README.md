@@ -61,6 +61,18 @@ Os estudos de caso completos estão no [portfólio](https://maribarbalho.github.
 
 ---
 
+## 🐍 Notebooks em Python
+
+| Repositório | O que tem | Tecnologias |
+|---|---|---|
+| [**fiap-tech-challenges**](https://github.com/maribarbalho/fiap-tech-challenges) | Desafios da pós em Data Analytics (FIAP): exportação de vinho, previsão do Ibovespa (XGBoost com 1,64% de erro no teste), PNAD COVID-19 e modelo de obesidade (Random Forest com 83,2% de acurácia) | Pandas, scikit-learn, XGBoost, LSTM |
+| [**datathon**](https://github.com/maribarbalho/datathon) | Estruturação das bases de candidatos, vagas e prospecções do Datathon Decision | Pandas |
+| [**estudos-big-data-python**](https://github.com/maribarbalho/estudos-big-data-python) | Análise de vendas, 1,5 milhão de acidentes nas rodovias com Polars, PySpark com SQLite e integração com BigQuery | Pandas, PySpark, Polars, BigQuery |
+| [**ia-generativa-e-ml**](https://github.com/maribarbalho/ia-generativa-e-ml) | Regressões, geração de imagens e de texto e detector de fake news | scikit-learn, Hugging Face, Stable Diffusion, BERT |
+| [**storytelling-base-vendas**](https://github.com/maribarbalho/storytelling-base-vendas) | Base de vendas fictícia com padrões de negócio embutidos, para estudos de BI | Faker, Pandas |
+
+---
+
 ## 💼 Trajetória
 
 - **2025–2026** · Cielo · Analista de Dados
