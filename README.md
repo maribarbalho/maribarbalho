@@ -53,6 +53,7 @@ Modelagem dimensional · Esquema estrela · KPIs · Dashboards · Storytelling c
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [**Logistics Performance Analytics**](https://maribarbalho.github.io/projetos/logistics-performance-analytics) · [repositório](https://github.com/maribarbalho/logistics-performance-analytics) | Case de BI que integra dados em CSV, Excel, JSON e XML para analisar entregas, frota, produtos e atendimento | Power BI, Power Query, DAX |
+| [**Finance Flow**](https://maribarbalho.github.io/projetos/finance-flow-analytics) · [repositório](https://github.com/maribarbalho/finance-flow-analytics) | Recebimentos e pagamentos analisados por período, concentração de clientes e fornecedores, tendências e pontualidade | Power BI, Power Query, DAX |
 | [**Visão Geral de Vendas**](https://maribarbalho.github.io/projetos/dashboard-vendas-power-bi) | Faturamento, volume, ticket médio e itens vendidos por período, grupo de produtos e equipe de vendas | Power BI, DAX |
 | [**Operações de Crédito**](https://maribarbalho.github.io/projetos/operacoes-de-credito) | Volume e quantidade de empréstimos por mês, linha de crédito, filial e cidade | Power BI, DAX |
 | [**Fatores Associados à Obesidade**](https://maribarbalho.github.io/projetos/analise-obesidade) | Hábitos alimentares, estilo de vida e meio de transporte para apoiar decisões de uma equipe de saúde | Power BI |
